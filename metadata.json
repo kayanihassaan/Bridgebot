@@ -1,0 +1,6 @@
+{
+  "name": "BridgeBot",
+  "description": "An elite autonomous migration engine that transforms legacy codebases (COBOL, Java, Fortran, etc.) into modern, highly optimized stacks using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
